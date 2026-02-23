@@ -1,6 +1,6 @@
 import { BrowserRouter } from 'react-router-dom';
 import Navbar from './Components/Navbar/Navbar';
-import Home from './pages/Home';
+import Home from './Pages/Home';
 import BurgerMenu from './components/BurgerMenu';
 import Footer from './Components/Footer/Footer';
 import Infinity from './Components/Infinity'
