@@ -37,4 +37,5 @@ Deployment: Vercel
 
 Note: 
 
-This is currently a static frontend prototype. Features like the Cart, Membership, and Blog are designed placeholders ready for future backend integration.
+This is currently a static frontend prototype, tho not responsive and mobile-friendly yet...still getting my way around web-dev responsiveness.
+Features like the Cart, Membership, and Blog are designed placeholders ready for future backend integration.
