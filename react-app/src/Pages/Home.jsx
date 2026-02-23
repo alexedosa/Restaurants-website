@@ -4,7 +4,7 @@ import { burgers } from "../data/burgers";
 import "../App.css"
 
 
-export   default function Home() {
+export default function Home() {
   return (
     <>
       <Hero />
