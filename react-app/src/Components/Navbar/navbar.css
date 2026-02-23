@@ -1,0 +1,71 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #312302;
+  color: #111;
+}
+a {
+  text-decoration: none;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo h2 {
+  font-weight: 700;
+}
+
+img.img-logo {
+  width: 60px;
+  height: 60px;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+.links {
+  display: flex;
+  gap: 25px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #ffa4a4;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.links a:hover {
+  color: #fff;
+}
+
+.engage {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.login-btn {
+  padding: 8px;
+  border: none;
+  background: #111;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-btn:hover {
+  background: #2c2c2c;
+}
+
+.cart img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}

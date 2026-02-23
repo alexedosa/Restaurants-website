@@ -1,0 +1,60 @@
+/* 
+@font-face {
+  font-family: 'CustomFont';
+  src: url('../assets/fonts/RetroCool-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 16px;
+    font-family: 'CustomFont';
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+.content {
+    width: 300px;
+    height: 300px;
+    padding: 12px;
+    border: 0px solid black;
+    box-shadow: 1px 1px 8px rgb(39, 39, 39);
+    margin: 6px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px;
+    backdrop-filter: blur(15px);
+    margin: 19px;
+}
+
+.content img {
+    width: 6rem;
+    height: 6rem;
+}
+
+.content h3 {
+    font-weight: bolder;
+    font-size: 1.6rem;
+}
+
+.space-em {
+    display: flex;
+    justify-content: space-around;
+    gap: 12px;
+}
+
+button {
+    width: 45px;
+    padding: 12px;
+    border: none;
+    background-color: rgb(52, 52, 53);
+    border-radius: 50%;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: azure;
+} */
+
+

@@ -1,0 +1,13 @@
+.container {
+    background-color: rgb(199, 16, 16);
+    width: 100px;
+    height: 200px;
+    margin: 30px
+}
+
+.container div {
+    background-color: goldenrod;
+    width: 100px;
+    height: 200px;
+}
+

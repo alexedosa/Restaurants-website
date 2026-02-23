@@ -1,0 +1,27 @@
+/* Profile */
+.profile {
+  width: 200px;
+  height: fit-content;
+  border-radius: 6px;
+  border: 2px solid black;
+  box-shadow: 2px 2px 16px black;
+  margin: 4px;
+  text-align: center;
+  padding: 40px;
+}
+
+.pfp-img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.pfp-head {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.pfp-info {
+  font-size: 16px;
+  color: #ff0000;
+}
