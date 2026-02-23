@@ -1,4 +1,4 @@
-import './Gallery.css'
+import './gallery.css'
 
 function Gallery() {
     return (
